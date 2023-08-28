@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS, Paython**
 
-- 👯 I’m looking to collaborate on **RAngular, RactJS, JS, TS, Nodejs Projects**
+- 👯 I’m looking to collaborate on **Angular, ReactJS, JS, TS, Nodejs Projects**
 
 - 🤝 I’m looking for help with **None for right now**
 
