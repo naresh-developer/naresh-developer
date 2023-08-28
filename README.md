@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naresh</h1>
-<h3 align="center">👋 Hello! I'm Naresh, a passionate Angular || react and Node.js developer with a keen eye for crafting efficient and user-friendly web applications. 🚀 💼 As a seasoned developer, I thrive on turning innovative ideas into robust software solutions. My journey in the world of web development has equipped me with a solid foundation in both front-end and back-end technologies.</h3>
+<h3 align="center">A passionate Angular || react and Node.js developer with a keen eye for crafting efficient and user-friendly web applications. 🚀 💼 As a seasoned developer, I thrive on turning innovative ideas into robust software solutions. My journey in the world of web development has equipped me with a solid foundation in both front-end and back-end technologies.</h3>
 
 - 🔭 I’m currently working on **personal goals**
 
